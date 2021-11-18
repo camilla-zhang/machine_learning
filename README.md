@@ -15,6 +15,7 @@ Supervised:
 - Random Forest
 - Bagging
 - Boosting
+
 Unsupervised:
 - Principal Component Analysis
 - K Means Clustering
